@@ -1,0 +1,5 @@
+<ProjectList>
+  <!-- Fhe 'xmlPath' values should be relative to this file (CiIndex.xml) -->
+  <Project name="test" xmlPath="Test_edkrepo/test/TestManifest.xml" />
+  <Project name="test2" xmlPath="Test2_edkrepo/test2/Test2Manifest.xml" />
+</ProjectList>
